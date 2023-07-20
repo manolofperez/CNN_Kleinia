@@ -5,4 +5,4 @@ simulate_Kleinia.py - python script to simulate segregating sites and save them 
 
 Train_ModSel.py - python script for training and calibrating a CNN for model selection, perform cross-validation and predict the most likely model from empirical data in the species *K. neriifolia*.
 
-input_Kleinia.txt - 
+input_Kleinia.txt - Segregating sites from the empirical dataset.
